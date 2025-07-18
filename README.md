@@ -17,9 +17,9 @@ url-harvester/
 
 ## 🚀 Özellikler
 
--HTTP/HTTPS destekli bağlantı kazıma
+- HTTP/HTTPS destekli bağlantı kazıma
 
--requests ve BeautifulSoup ile sayfa analizi
+- requests ve BeautifulSoup ile sayfa analizi
 
 -Tkinter ile kolay arayüz
 
