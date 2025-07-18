@@ -6,9 +6,13 @@
 ## 📁 Proje Dosya Yapısı
 
 url-kaziyici/
+
 │
+
 ├── link_extractor.py   # Web sayfasından bağlantıları toplayan scraper kodu
+
 ├── gui.py              # Kullanıcı arayüzü (Tkinter GUI)
+
 └── README.md           # Proje tanıtım dosyası
 
 ## 🚀 Özellikler
