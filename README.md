@@ -21,25 +21,25 @@ url-harvester/
 
 - requests ve BeautifulSoup ile sayfa analizi
 
--Tkinter ile kolay arayüz
+- Tkinter ile kolay arayüz
 
--Listbox ile bağlantıları listeleme
+- Listbox ile bağlantıları listeleme
 
--Kaydırma çubuğu desteği (scrollbar)
+- Kaydırma çubuğu desteği (scrollbar)
 
 ## 🔧 Gereksinimler
 
 Bu proje için Python 3.7 veya üzeri önerilir. Kullanılan ek kütüphaneler:
 
-requests
+- requests
 
-beautifulsoup4
+- beautifulsoup4
 
 Bu kütüphaneleri elle kurmak için terminal veya komut satırında aşağıdaki komutları çalıştırabilirsin:
 
-pip install requests
+- pip install requests
 
-pip install beautifulsoup4
+- pip install beautifulsoup4
 
 
 ## 📄 Dosya Açıklamaları
@@ -59,7 +59,7 @@ pip install beautifulsoup4
 
 2. GUI uygulamasını çalıştır:
 
-python gui.py
+- python gui.py
 
 3. Açılan pencerede bir web adresi gir (örneğin: https://www.wikipedia.org) ve “Taramaya Başla” butonuna bas.
 
@@ -72,8 +72,11 @@ python gui.py
 ## 👨‍💻 Geliştirici
 
 Umutcan Kemahlı
+
 İsparta Uygulamalı Bilimler Üniversitesi
+
 Bilgisayar Mühendisliği, 4. Sınıf
+
 Back-End Developer Adayı
 
 
