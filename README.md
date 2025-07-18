@@ -5,7 +5,7 @@
 
 ## 📁 Proje Dosya Yapısı
 
-url-kaziyici/
+url-harvester/
 
 │
 
@@ -65,10 +65,15 @@ python gui.py
 
 4. Bağlantılar listelenmiş olarak arayüzde görünecektir.
 
+## Ekran Görüntüsü
+
+<img width="876" height="435" alt="image" src="https://github.com/user-attachments/assets/65be1997-49d8-47aa-9e8c-e41e44723cc2" />
+
 ## 👨‍💻 Geliştirici
 
 Umutcan Kemahlı
 İsparta Uygulamalı Bilimler Üniversitesi
 Bilgisayar Mühendisliği, 4. Sınıf
 Back-End Developer Adayı
+
 
