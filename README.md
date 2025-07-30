@@ -67,12 +67,12 @@ Bu kütüphaneleri elle kurmak için terminal veya komut satırında aşağıdak
 
 ## Ekran Görüntüsü
 
-<<<<<<< HEAD
+
 <img width="876" height="435" alt="image" src="https://github.com/user-attachments/assets/65be1997-49d8-47aa-9e8c-e41e44723cc2" />
-=======
+
 <img width="1002" height="786" alt="image" src="https://github.com/user-attachments/assets/40128dbb-d36b-4a09-b7cd-fbdcce91a433" />
 
->>>>>>> 08679bba0a8caf4f3bb2a3d8f257b256f6a83b7c
+
 
 ## 👨‍💻 Geliştirici
 
